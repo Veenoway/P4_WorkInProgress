@@ -2026,6 +2026,14 @@ pre code {
 .title{
     margin-bottom: 20px;
 }
+
+.flex-center{
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+}
+
 .col-lg-1,
 .col-lg-10,
 .col-lg-11,
