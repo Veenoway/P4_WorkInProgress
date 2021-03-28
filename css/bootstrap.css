@@ -1712,6 +1712,10 @@ a.text-info:hover {
     color: #245269
 }
 
+.white{
+    color: white;
+}
+
 .text-warning {
     color: #8a6d3b
 }
